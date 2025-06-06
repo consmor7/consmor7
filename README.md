@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/angel_constantino7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWMwcjRtaGw0MmUwMnl0aHNmb2p5cGdjcGp5bDk3M3UzM3Q1eHdiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDdBdU3rJhfutZ2qbR/giphy.gif"  />
   </a>
 </div>
 
