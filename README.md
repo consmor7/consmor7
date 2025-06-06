@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/AfpXE9om1TtkcjpKhI/giphy.gif"  />
+  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI4anFrMHllMmNraHVwZGV0NW00MW55b3hoZnUzanJ3cThveHh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BiSeh1hFJ2waKPld1p/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.instagram.com/angel_constantino7/" target="_blank">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWMwcjRtaGw0MmUwMnl0aHNmb2p5cGdjcGp5bDk3M3UzM3Q1eHdiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDdBdU3rJhfutZ2qbR/giphy.gif"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
